@@ -78,7 +78,8 @@ for i in range(len(inputseq)):
             else:
                 outputseq.append("S")
 
+#this logic is for printing the final output
 str1=''.join(outputseq)
-print(str1)
+print("The output for the given input sequence is :"+str1)
 
 
