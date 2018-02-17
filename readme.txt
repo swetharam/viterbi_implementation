@@ -6,6 +6,6 @@ python Viterbi.py "WCWWSSCWC"
 #########################################################################################
 A sample output for running this code is as follows:
 
-=>The output for the given input sequence is :RRSSSSRSR
+=>The output for the given input sequence is :RRSSSSRRR
 
 
